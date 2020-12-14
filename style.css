@@ -1,0 +1,39 @@
+
+
+.botao-linkedin {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 30px 15px;
+    border-radius: 15px;
+    margin: 25px;
+    display: inline-block;
+}
+
+.destaque-linkedin {
+    color: white;
+    background: blueviolet;
+    box-shadow: 2px 2px 1px 1px black;
+}
+
+.destaque-linkedin:active {
+    box-shadow: none;
+}
+
+.botao-github {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 30px 15px;
+    border-radius: 15px;
+    margin: 25px;
+    display: inline-block;
+}
+
+.destaque-github {
+    color: white;
+    background: rgb(0, 0, 0);
+    box-shadow: 2px 2px 1px 1px rgb(66, 62, 62);
+}
+
+.destaque-github:active {
+    box-shadow: none;
+}
